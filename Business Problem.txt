@@ -1,0 +1,106 @@
+PROJECT BUSINESS PROBLEM
+Project: Enterprise IT Knowledge Management and Intelligent Support Assistant
+Solution type: Retrieval-Augmented Generation (RAG)
+
+1. BUSINESS CONTEXT
+A medium-to-large financial services organization operates a complex technology environment supporting employees, customer-facing applications, internal systems, cloud services, endpoints, networks, and information-security controls. Its operational knowledge is distributed across policy documents, standard operating procedures (SOPs), troubleshooting guides, incident post-mortems, service-level agreements (SLAs), change records, vendor manuals, and business-continuity documents.
+
+Employees and IT service-desk analysts frequently need answers to questions such as:
+- What approval is required before privileged access is granted?
+- What is the response target for a Priority 1 incident?
+- Which steps should an analyst follow when a managed laptop is suspected to be compromised?
+- How should a production change be approved, tested, and rolled back?
+- What is the approved recovery-time objective for a critical application?
+- Which document is authoritative when two procedures contain different instructions?
+
+Today, staff search shared drives, intranet pages, ticket exports, and email attachments manually. This creates delays, inconsistent answers, repeated escalations, and operational risk.
+
+2. THE BUSINESS PROBLEM
+The organization lacks a single, reliable way to discover and interpret knowledge across a large, fragmented document collection. Keyword search is often insufficient because employees describe problems differently from the terminology used in the source documents. Search results may also include obsolete versions, duplicates, incomplete records, irrelevant material, and documents that contradict one another.
+
+The problem is not simply finding a matching paragraph. The organization needs a system that can retrieve semantically relevant passages, consider document authority and recency, generate a concise answer grounded in those passages, and show exactly where the answer came from.
+
+3. DATA CHALLENGES TO ADDRESS
+The project dataset deliberately represents common enterprise data-quality problems:
+- Missing data: absent owners, effective dates, review dates, version numbers, or source-system values.
+- Inconsistent data: different spellings and labels for the same department, category, status, priority, and date format.
+- Duplicate data: repeated documents, near-duplicate procedures, and multiple exports of the same content.
+- Irrelevant data: unrelated newsletters, facilities notices, generic vendor marketing, and out-of-scope material.
+- Inaccurate data: seeded incorrect values or statements that conflict with the authoritative reference record.
+- Stale data: expired policies and superseded procedures that remain discoverable.
+- Conflicting data: different documents state different thresholds, targets, or approval requirements.
+- Poor metadata: ambiguous titles, inconsistent identifiers, and missing provenance.
+
+These defects are intentional and documented in the workbook's Data_Quality_Log. They should not all be silently deleted. The project should demonstrate how records are detected, assessed, corrected, quarantined, or retained with warnings.
+
+4. PROPOSED SOLUTION
+Build an enterprise IT knowledge assistant using Retrieval-Augmented Generation (RAG).
+
+A. Ingestion and preparation
+- Load the document corpus and metadata from the supplied Excel workbook.
+- Validate required fields and normalize dates, categories, departments, statuses, and identifiers.
+- Detect exact and near duplicates.
+- Identify stale, irrelevant, suspicious, and conflicting documents.
+- Preserve original values and record every transformation in a data-quality report.
+- Separate authoritative content from unverified or superseded content.
+
+B. Text processing and indexing
+- Extract document text and split it into overlapping chunks.
+- Attach metadata to each chunk, including document ID, title, category, version, status, effective date, and source.
+- Generate embeddings for the chunks.
+- Store embeddings and chunk metadata in a FAISS index.
+
+C. Retrieval and answer generation
+- Accept natural-language questions from employees and support analysts.
+- Retrieve semantically relevant passages using vector similarity.
+- Apply metadata filters and ranking rules so current, approved, authoritative documents are preferred.
+- Pass retrieved passages to an LLM with instructions to answer only from supplied evidence.
+- Require citations that identify the source document and, where possible, the relevant section or chunk.
+- If evidence is insufficient or sources conflict, the assistant must say so rather than invent an answer.
+
+D. User interface
+- Build a Streamlit interface with a question input, generated answer, source references, document metadata, and retrieved passage previews.
+- Show warnings when evidence is outdated, incomplete, low-confidence, or contradictory.
+- Include a document-ingestion or index-refresh workflow if time permits.
+
+5. BUSINESS VALUE
+The solution is intended to:
+- Reduce time spent searching internal documentation.
+- Improve consistency of IT support responses.
+- Reduce avoidable service-desk escalations.
+- Make answers traceable to approved source material.
+- Surface stale, duplicate, conflicting, and low-quality documentation.
+- Improve knowledge reuse and document governance.
+
+Potential impact should be measured during evaluation rather than assumed. Useful measures include retrieval Recall@k, Precision@k, Mean Reciprocal Rank (MRR), answer faithfulness, citation correctness, answer relevance, abstention quality, and average response latency.
+
+6. PROJECT SCOPE
+In scope:
+- Synthetic enterprise IT document corpus supplied in the Excel workbook.
+- Data profiling, cleaning, normalization, and quality issue tracking.
+- Chunking, embedding generation, FAISS indexing, retrieval, and LLM-based answer generation.
+- Source citations and an interactive Streamlit application.
+- A question benchmark with expected source documents for evaluation.
+- Comparison of baseline retrieval against improved retrieval with metadata and quality-aware ranking.
+
+Out of scope:
+- Connecting to a real company's production systems.
+- Using real employee, customer, credential, or confidential business data.
+- Automatically executing IT changes, granting access, or closing incidents.
+- Treating generated answers as approval to bypass formal IT/security controls.
+
+7. SUCCESS CRITERIA
+The project will be considered successful when:
+- The ingestion pipeline handles missing and inconsistent metadata without crashing.
+- Duplicate, stale, irrelevant, and suspicious records are identified and handled transparently.
+- Relevant passages can be retrieved for benchmark questions, including paraphrased questions.
+- Answers are grounded in retrieved evidence and include valid source references.
+- The assistant abstains when the corpus does not contain enough evidence.
+- Conflicting source documents are surfaced rather than silently blended into one answer.
+- Retrieval and answer quality are evaluated using a repeatable benchmark.
+
+8. IMPORTANT GOVERNANCE RULE
+This is a synthetic portfolio dataset, not an operational policy library. All organization names, people, document identifiers, targets, dates, and procedures are fictional. The seeded inaccurate records are intentionally wrong for data-quality and conflict-resolution exercises. Never use this dataset to make real security, compliance, access, incident-response, or business-continuity decisions.
+
+9. DELIVERABLE
+An end-to-end Enterprise IT Knowledge Management and Intelligent Support Assistant that demonstrates robust data preparation, semantic retrieval, grounded LLM responses, source traceability, and measurable evaluation.
