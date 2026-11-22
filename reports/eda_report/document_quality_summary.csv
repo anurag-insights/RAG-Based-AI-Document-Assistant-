@@ -1,0 +1,8 @@
+Quality Dimension,RAG Impact
+Missing Metadata,Reduced metadata filtering and traceability
+Duplicate Documents,Redundant retrieval results
+Irrelevant Documents,Irrelevant context in generated answers
+Outdated Documents,Retrieval of obsolete policies
+Inaccurate Content,Potentially incorrect generated answers
+Conflicting Information,Contradictory information in retrieved context
+Weak Provenance,Reduced confidence in source reliability
