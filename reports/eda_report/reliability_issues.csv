@@ -1,0 +1,6 @@
+document_id,quality_issue,recommended_handling,investigation_guidance,document_title
+DOC-X001,inaccurate_content; inconsistent_category; missing_owner; missing_dates; missing_version; misleading_status; inconsistent_category,quarantine,"Inspect source, preserve raw value, apply documented normalization or quarantine rule; never silently overwrite.",Privileged Access Standard
+DOC-X002,stale_document; conflicting_values,retain_with_stale_warning,"Inspect source, preserve raw value, apply documented normalization or quarantine rule; never silently overwrite.",IT Service Desk SLA - Legacy
+DOC-X003,inaccurate_content; conflicting_values; provenance_weak,quarantine,"Inspect source, preserve raw value, apply documented normalization or quarantine rule; never silently overwrite.",Incident Priority Matrix
+DOC-X010,stale_document; incomplete_content; conflicting_metadata,retain_with_stale_warning,"Inspect source, preserve raw value, apply documented normalization or quarantine rule; never silently overwrite.",Recovery Plan - Payments old copy
+DOC-X011,inaccurate_content; draft; conflicting_values; weak_provenance,quarantine,"Inspect source, preserve raw value, apply documented normalization or quarantine rule; never silently overwrite.",Data Retention - contradictory note
