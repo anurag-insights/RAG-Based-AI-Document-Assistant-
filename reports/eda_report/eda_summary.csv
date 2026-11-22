@@ -1,0 +1,15 @@
+Metric,Value
+Total Documents,84.0
+Total Columns,16.0
+Total Missing Values,17.0
+Columns with Missing Values,4.0
+Exact Duplicate Rows,0.0
+Duplicate Document IDs,0.0
+Duplicate Document Titles,2.0
+Average Word Count,126.11
+Median Word Count,141.5
+Minimum Word Count,17.0
+Maximum Word Count,152.0
+Empty Documents,0.0
+Short Documents,12.0
+Long Documents,0.0
