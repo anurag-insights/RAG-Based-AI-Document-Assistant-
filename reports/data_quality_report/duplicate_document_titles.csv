@@ -1,0 +1,17 @@
+document_id,title,category,department,owner,effective_date,review_date,version,status,source_system,access_level,document_text,quality_flags,expected_action
+DOC-0046,Cloud Resource Provisioning Standard,Network and Cloud,Cloud Platform,,2025-03-04,2026-03-04,1.1,Approved,Controlled Knowledge Repository,Internal,"Purpose and scope: This document applies to cloud platform teams and authorized service owners. It describes the operational control and minimum evidence expected for cloud resource provisioning standard.
+
+Procedure / control: Cloud resources must use approved landing zones, identity controls, encryption, logging, tagging, and network boundaries. Production resources require an accountable owner and cost centre. Public exposure must be explicitly justified and reviewed by security.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions.",missing_owner,retain
+DOC-X007,Cloud Resource Provisioning Standard,Cloud Platform,Cloud Platform,Cloud Owner,2025-07-01,,2.1,Approved,Cloud Wiki,Internal,"Cloud resources must use approved landing zones, identity controls, encryption, logging, tagging, and network boundaries. Production resources require an accountable owner and cost centre.",missing_review_date; partial_content,retain_with_metadata_warning
+DOC-0001,Privileged Access Standard,Access Management,Security,Security Owner,2024-01-24,2025-01-23,1.1,Approved,Controlled Knowledge Repository,Internal,"Purpose and scope: This document applies to security teams and authorized service owners. It describes the operational control and minimum evidence expected for privileged access standard.
+
+Procedure / control: Privileged access requires a named business sponsor, manager approval, and security approval. Access must be time-bound, logged, and reviewed quarterly. Emergency access is permitted only through the break-glass process and must be reviewed by the next business day.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions.",none,retain
+DOC-X001,Privileged Access Standard,Access Management,IT Operations,,,,,Active,SharePoint export,Internal,Privileged access can be granted by any team member without manager or security approval. This statement is intentionally inaccurate and conflicts with the approved standard. It is an old copied note and must not be used as policy.,inaccurate_content; inconsistent_category; missing_owner; missing_dates; missing_version; misleading_status; inconsistent_category,quarantine
