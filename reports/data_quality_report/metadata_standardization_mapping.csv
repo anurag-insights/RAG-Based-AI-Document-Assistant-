@@ -1,0 +1,6 @@
+column,original_value,standardized_value,reason
+category,Access Mgmt,Access Management,Abbreviated category label
+category,Incident Mgmt,Incident Management,Abbreviated category label
+category,Backup & Recovery,Backup and Recovery,Formatting variation
+department,IT Ops,IT Operations,Abbreviated department label
+status,approved ,Approved,Capitalization and trailing whitespace

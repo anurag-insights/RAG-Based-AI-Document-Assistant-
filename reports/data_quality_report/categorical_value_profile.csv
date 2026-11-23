@@ -1,0 +1,76 @@
+column_name,value,record_count
+category,Change Management,10
+category,End User Support,10
+category,Incident Management,9
+category,Service Levels,9
+category,Network and Cloud,9
+category,Data Protection,9
+category,Access Management,8
+category,Backup and Recovery,8
+category,Access Mgmt,2
+category,SLA,1
+category,BCP / DR,1
+category,Data Governance,1
+category,Incident Mgmt,1
+category,Facilities,1
+category,Communications,1
+category,Network & Infrastructure,1
+category,Cloud Platform,1
+category,Vendor Material,1
+category,Backup & Recovery,1
+department,Security,15
+department,IT Service Desk,15
+department,IT Operations,13
+department,Business Continuity,7
+department,Cloud Platform,7
+department,Network Operations,7
+department,Application Support,6
+department,Compliance,4
+department,Vendor Management,3
+department,Infrastructure,3
+department,IT Ops,1
+department,Facilities,1
+department,HR,1
+department,Procurement,1
+owner,Security Owner,14
+owner,ITOperations Owner,12
+owner,ITServiceDesk Owner,11
+owner,nan,7
+owner,ApplicationSupport Owner,6
+owner,BusinessContinuity Owner,6
+owner,NetworkOperations Owner,6
+owner,CloudPlatform Owner,5
+owner,Infrastructure Owner,3
+owner,Compliance Owner,3
+owner,VendorManagement Owner,2
+owner,SLA Owner,1
+owner,Service Desk Lead,1
+owner,Facilities Admin,1
+owner,HR Communications,1
+owner,Network Owner,1
+owner,Cloud Owner,1
+owner,Vendor,1
+owner,BCP Owner,1
+owner,Compliance Analyst,1
+status,Approved,27
+status,Draft,25
+status,Superseded,24
+status,Expired,3
+status,Published,2
+status,approved ,1
+status,Active,1
+status,Archived,1
+source_system,Controlled Knowledge Repository,72
+source_system,Email Attachment,2
+source_system,Intranet,2
+source_system,SharePoint export,1
+source_system,Legacy Wiki,1
+source_system,File Share,1
+source_system,Cloud Wiki,1
+source_system,Ticket comment,1
+source_system,Vendor Portal,1
+source_system,Personal Drive,1
+source_system,Knowledge Base,1
+access_level,Internal,82
+access_level,Public,1
+access_level,Restricted,1
