@@ -1,0 +1,21 @@
+column_name,data_type,missing_count,missing_percentage,unique_values,duplicate_count,sample_value
+document_id,str,0,0.0,84,0,DOC-0001
+title,str,0,0.0,82,2,Privileged Access Standard
+category,str,0,0.0,19,65,Access Management
+department,str,0,0.0,14,70,Security
+owner,str,7,8.33,19,64,Security Owner
+effective_date,str,1,1.19,83,0,2024-01-24
+review_date,str,7,8.33,77,6,2025-01-23
+version,float64,2,2.38,8,75,1.1
+status,str,0,0.0,8,76,Approved
+source_system,str,0,0.0,11,73,Controlled Knowledge Repository
+access_level,str,0,0.0,3,81,Internal
+document_text,str,0,0.0,36,48,"Purpose and scope: This document applies to security teams and authorized service owners. It describes the operational control and minimum evidence expected for privileged access standard.
+
+Procedure / control: Privileged access requires a named business sponsor, manager approval, and security approval. Access must be time-bound, logged, and reviewed quarterly. Emergency access is permitted only through the break-glass process and must be reviewed by the next business day.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+quality_flags,str,0,0.0,15,69,none
+expected_action,str,0,0.0,7,77,retain
