@@ -1,0 +1,517 @@
+document_id,title,category,department,owner,version,status,source_system,effective_date,review_date,access_level,authority_class,retrieval_eligibility,content_hash,duplicate_group_id,document_text
+DOC-0001,Privileged Access Standard,Access Management,Security,Security Owner,1.1,Approved,Controlled Knowledge Repository,2024-01-24,2025-01-23,Internal,Approved Candidate,Eligible Candidate,c857976e69a33b06987cea88e3a3f76f6d622a3bb896369571aadb9aabcf4d8c,DUP-001,"Purpose and scope: This document applies to security teams and authorized service owners. It describes the operational control and minimum evidence expected for privileged access standard.
+
+Procedure / control: Privileged access requires a named business sponsor, manager approval, and security approval. Access must be time-bound, logged, and reviewed quarterly. Emergency access is permitted only through the break-glass process and must be reviewed by the next business day.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0002,Privileged Access Standard - Working Copy 2,Access Management,Security,Security Owner,2.2,Draft,Controlled Knowledge Repository,2024-02-02,2025-02-01,Internal,Non-Approved,Manual Review Required,c857976e69a33b06987cea88e3a3f76f6d622a3bb896369571aadb9aabcf4d8c,DUP-001,"Purpose and scope: This document applies to security teams and authorized service owners. It describes the operational control and minimum evidence expected for privileged access standard.
+
+Procedure / control: Privileged access requires a named business sponsor, manager approval, and security approval. Access must be time-bound, logged, and reviewed quarterly. Emergency access is permitted only through the break-glass process and must be reviewed by the next business day.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0003,Privileged Access Standard - Working Copy 3,Access Management,Security,Security Owner,3.0,Superseded,Controlled Knowledge Repository,2024-02-11,2025-02-10,Internal,Non-Approved,Manual Review Required,c857976e69a33b06987cea88e3a3f76f6d622a3bb896369571aadb9aabcf4d8c,DUP-001,"Purpose and scope: This document applies to security teams and authorized service owners. It describes the operational control and minimum evidence expected for privileged access standard.
+
+Procedure / control: Privileged access requires a named business sponsor, manager approval, and security approval. Access must be time-bound, logged, and reviewed quarterly. Emergency access is permitted only through the break-glass process and must be reviewed by the next business day.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0004,Joiner-Mover-Leaver Procedure,Access Management,IT Operations,ITOperations Owner,1.1,Approved,Controlled Knowledge Repository,2024-02-20,2025-02-19,Internal,Approved Candidate,Eligible Candidate,482871d184b0d1d4c5f1a6cb21680f224c33f1323bc95dcbcbeba5aa98e3305e,DUP-002,"Purpose and scope: This document applies to it operations teams and authorized service owners. It describes the operational control and minimum evidence expected for joiner-mover-leaver procedure.
+
+Procedure / control: New access is provisioned from an approved role request. Role changes trigger a review of existing entitlements. On termination, workforce identity access is disabled according to the HR termination feed and the documented urgent-termination process. Application owners certify access at least quarterly.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0005,Joiner-Mover-Leaver Procedure - Working Copy 2,Access Management,IT Operations,ITOperations Owner,2.2,Draft,Controlled Knowledge Repository,2024-02-29,2025-02-28,Internal,Non-Approved,Manual Review Required,482871d184b0d1d4c5f1a6cb21680f224c33f1323bc95dcbcbeba5aa98e3305e,DUP-002,"Purpose and scope: This document applies to it operations teams and authorized service owners. It describes the operational control and minimum evidence expected for joiner-mover-leaver procedure.
+
+Procedure / control: New access is provisioned from an approved role request. Role changes trigger a review of existing entitlements. On termination, workforce identity access is disabled according to the HR termination feed and the documented urgent-termination process. Application owners certify access at least quarterly.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0006,Joiner-Mover-Leaver Procedure - Working Copy 3,Access Management,IT Operations,ITOperations Owner,3.0,Superseded,Controlled Knowledge Repository,2024-03-09,2025-03-09,Internal,Non-Approved,Manual Review Required,482871d184b0d1d4c5f1a6cb21680f224c33f1323bc95dcbcbeba5aa98e3305e,DUP-002,"Purpose and scope: This document applies to it operations teams and authorized service owners. It describes the operational control and minimum evidence expected for joiner-mover-leaver procedure.
+
+Procedure / control: New access is provisioned from an approved role request. Role changes trigger a review of existing entitlements. On termination, workforce identity access is disabled according to the HR termination feed and the documented urgent-termination process. Application owners certify access at least quarterly.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0007,Service Account Governance,Access Management,Security,Security Owner,1.1,Approved,Controlled Knowledge Repository,2024-03-18,2025-03-18,Internal,Approved Candidate,Eligible Candidate,a2ec32464944e1138f7dc58a3937fac142fa47f0d13155d516fd47dbdf6e15fb,DUP-003,"Purpose and scope: This document applies to security teams and authorized service owners. It describes the operational control and minimum evidence expected for service account governance.
+
+Procedure / control: Service accounts must have an accountable owner, documented purpose, non-interactive use where feasible, managed secrets, and periodic review. Shared human accounts are prohibited. Credentials must not be embedded in source code or tickets.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0008,Service Account Governance - Working Copy 2,Access Management,Security,,2.2,Draft,Controlled Knowledge Repository,2024-03-27,2025-03-27,Internal,Non-Approved,Manual Review Required,a2ec32464944e1138f7dc58a3937fac142fa47f0d13155d516fd47dbdf6e15fb,DUP-003,"Purpose and scope: This document applies to security teams and authorized service owners. It describes the operational control and minimum evidence expected for service account governance.
+
+Procedure / control: Service accounts must have an accountable owner, documented purpose, non-interactive use where feasible, managed secrets, and periodic review. Shared human accounts are prohibited. Credentials must not be embedded in source code or tickets.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0009,Service Account Governance - Working Copy 3,Access Management,Security,Security Owner,3.0,Superseded,Controlled Knowledge Repository,2024-04-05,2025-04-05,Internal,Non-Approved,Manual Review Required,a2ec32464944e1138f7dc58a3937fac142fa47f0d13155d516fd47dbdf6e15fb,DUP-003,"Purpose and scope: This document applies to security teams and authorized service owners. It describes the operational control and minimum evidence expected for service account governance.
+
+Procedure / control: Service accounts must have an accountable owner, documented purpose, non-interactive use where feasible, managed secrets, and periodic review. Shared human accounts are prohibited. Credentials must not be embedded in source code or tickets.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0010,Incident Priority and Escalation Matrix,Incident Management,IT Service Desk,ITServiceDesk Owner,1.1,Approved,Controlled Knowledge Repository,2024-04-14,2025-04-14,Internal,Approved Candidate,Eligible Candidate,e248fae7017cab4d41e00a28ac2443d66da5dd05767d0af230ec056485dab741,DUP-004,"Purpose and scope: This document applies to it service desk teams and authorized service owners. It describes the operational control and minimum evidence expected for incident priority and escalation matrix.
+
+Procedure / control: Priority is determined by business impact and urgency. P1 incidents involve critical service disruption or material security impact and require immediate incident-manager engagement. P2 incidents have significant but limited impact. Analysts must record timestamps, affected services, workarounds, and communications.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0011,Incident Priority and Escalation Matrix - Working Copy 2,Incident Management,IT Service Desk,ITServiceDesk Owner,2.2,Draft,Controlled Knowledge Repository,2024-04-23,2025-04-23,Internal,Non-Approved,Manual Review Required,e248fae7017cab4d41e00a28ac2443d66da5dd05767d0af230ec056485dab741,DUP-004,"Purpose and scope: This document applies to it service desk teams and authorized service owners. It describes the operational control and minimum evidence expected for incident priority and escalation matrix.
+
+Procedure / control: Priority is determined by business impact and urgency. P1 incidents involve critical service disruption or material security impact and require immediate incident-manager engagement. P2 incidents have significant but limited impact. Analysts must record timestamps, affected services, workarounds, and communications.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0012,Incident Priority and Escalation Matrix - Working Copy 3,Incident Management,IT Service Desk,ITServiceDesk Owner,3.0,Superseded,Controlled Knowledge Repository,2024-05-02,,Internal,Non-Approved,Manual Review Required,e248fae7017cab4d41e00a28ac2443d66da5dd05767d0af230ec056485dab741,DUP-004,"Purpose and scope: This document applies to it service desk teams and authorized service owners. It describes the operational control and minimum evidence expected for incident priority and escalation matrix.
+
+Procedure / control: Priority is determined by business impact and urgency. P1 incidents involve critical service disruption or material security impact and require immediate incident-manager engagement. P2 incidents have significant but limited impact. Analysts must record timestamps, affected services, workarounds, and communications.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0013,Major Incident Communications SOP,Incident Management,IT Operations,ITOperations Owner,1.1,Approved,Controlled Knowledge Repository,2024-05-11,2025-05-11,Internal,Approved Candidate,Eligible Candidate,74803b4ad260e356eb2ae937c133d8a6bba2f9f6ce0462e3bac0044170dda734,DUP-005,"Purpose and scope: This document applies to it operations teams and authorized service owners. It describes the operational control and minimum evidence expected for major incident communications sop.
+
+Procedure / control: The incident manager establishes a communication bridge, assigns technical leads, maintains a decision log, and issues stakeholder updates using the approved communications channel. Updates must distinguish confirmed facts from hypotheses. Closure requires service validation and a post-incident review decision.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0014,Major Incident Communications SOP - Working Copy 2,Incident Management,IT Operations,ITOperations Owner,2.2,Draft,Controlled Knowledge Repository,2024-05-20,2025-05-20,Internal,Non-Approved,Manual Review Required,74803b4ad260e356eb2ae937c133d8a6bba2f9f6ce0462e3bac0044170dda734,DUP-005,"Purpose and scope: This document applies to it operations teams and authorized service owners. It describes the operational control and minimum evidence expected for major incident communications sop.
+
+Procedure / control: The incident manager establishes a communication bridge, assigns technical leads, maintains a decision log, and issues stakeholder updates using the approved communications channel. Updates must distinguish confirmed facts from hypotheses. Closure requires service validation and a post-incident review decision.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0015,Major Incident Communications SOP - Working Copy 3,Incident Management,IT Operations,ITOperations Owner,3.0,Superseded,Controlled Knowledge Repository,2024-05-29,2025-05-29,Internal,Non-Approved,Manual Review Required,74803b4ad260e356eb2ae937c133d8a6bba2f9f6ce0462e3bac0044170dda734,DUP-005,"Purpose and scope: This document applies to it operations teams and authorized service owners. It describes the operational control and minimum evidence expected for major incident communications sop.
+
+Procedure / control: The incident manager establishes a communication bridge, assigns technical leads, maintains a decision log, and issues stakeholder updates using the approved communications channel. Updates must distinguish confirmed facts from hypotheses. Closure requires service validation and a post-incident review decision.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0016,Endpoint Malware Response Runbook,Incident Management,Security,Security Owner,1.1,Approved,Controlled Knowledge Repository,2024-06-07,2025-06-07,Internal,Approved Candidate,Eligible Candidate,98a5432a7d0f4d7a91a81d73eef60015219ab1942783662204b03ee04333ad91,DUP-006,"Purpose and scope: This document applies to security teams and authorized service owners. It describes the operational control and minimum evidence expected for endpoint malware response runbook.
+
+Procedure / control: When malware is suspected on a managed endpoint, preserve relevant evidence, isolate the endpoint using the approved endpoint-management control, notify the security operations team, and record the incident ID. Do not wipe or reimage the device before evidence-preservation instructions are received.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0017,Endpoint Malware Response Runbook - Working Copy 2,Incident Management,Security,Security Owner,2.2,Draft,Controlled Knowledge Repository,2024-06-16,2025-06-16,Internal,Non-Approved,Manual Review Required,98a5432a7d0f4d7a91a81d73eef60015219ab1942783662204b03ee04333ad91,DUP-006,"Purpose and scope: This document applies to security teams and authorized service owners. It describes the operational control and minimum evidence expected for endpoint malware response runbook.
+
+Procedure / control: When malware is suspected on a managed endpoint, preserve relevant evidence, isolate the endpoint using the approved endpoint-management control, notify the security operations team, and record the incident ID. Do not wipe or reimage the device before evidence-preservation instructions are received.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0018,Endpoint Malware Response Runbook - Working Copy 3,Incident Management,Security,Security Owner,3.0,Superseded,Controlled Knowledge Repository,2024-06-25,2025-06-25,Internal,Non-Approved,Manual Review Required,98a5432a7d0f4d7a91a81d73eef60015219ab1942783662204b03ee04333ad91,DUP-006,"Purpose and scope: This document applies to security teams and authorized service owners. It describes the operational control and minimum evidence expected for endpoint malware response runbook.
+
+Procedure / control: When malware is suspected on a managed endpoint, preserve relevant evidence, isolate the endpoint using the approved endpoint-management control, notify the security operations team, and record the incident ID. Do not wipe or reimage the device before evidence-preservation instructions are received.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0019,IT Service Desk SLA,Service Levels,IT Service Desk,ITServiceDesk Owner,1.1,Approved,Controlled Knowledge Repository,2024-07-04,2025-07-04,Internal,Approved Candidate,Eligible Candidate,43a0e05dcde15a64d02b56cdfc90003bd5ba2c63ac8387fcaedd20c7d65ca48a,DUP-007,"Purpose and scope: This document applies to it service desk teams and authorized service owners. It describes the operational control and minimum evidence expected for it service desk sla.
+
+Procedure / control: The service desk acknowledges P1 tickets within 15 minutes, P2 within 1 business hour, P3 within 1 business day, and P4 within 2 business days. These are acknowledgement targets, not guaranteed resolution times. The clock pauses only for documented customer dependency or approved maintenance exclusions.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0020,IT Service Desk SLA - Working Copy 2,Service Levels,IT Service Desk,ITServiceDesk Owner,2.2,Draft,Controlled Knowledge Repository,2024-07-13,2025-07-13,Internal,Non-Approved,Manual Review Required,43a0e05dcde15a64d02b56cdfc90003bd5ba2c63ac8387fcaedd20c7d65ca48a,DUP-007,"Purpose and scope: This document applies to it service desk teams and authorized service owners. It describes the operational control and minimum evidence expected for it service desk sla.
+
+Procedure / control: The service desk acknowledges P1 tickets within 15 minutes, P2 within 1 business hour, P3 within 1 business day, and P4 within 2 business days. These are acknowledgement targets, not guaranteed resolution times. The clock pauses only for documented customer dependency or approved maintenance exclusions.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0021,IT Service Desk SLA - Working Copy 3,Service Levels,IT Service Desk,ITServiceDesk Owner,3.0,Superseded,Controlled Knowledge Repository,2024-07-22,2025-07-22,Internal,Non-Approved,Manual Review Required,43a0e05dcde15a64d02b56cdfc90003bd5ba2c63ac8387fcaedd20c7d65ca48a,DUP-007,"Purpose and scope: This document applies to it service desk teams and authorized service owners. It describes the operational control and minimum evidence expected for it service desk sla.
+
+Procedure / control: The service desk acknowledges P1 tickets within 15 minutes, P2 within 1 business hour, P3 within 1 business day, and P4 within 2 business days. These are acknowledgement targets, not guaranteed resolution times. The clock pauses only for documented customer dependency or approved maintenance exclusions.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0022,Critical Application Support Agreement,SLA,Application Support,ApplicationSupport Owner,1.1,Approved,Controlled Knowledge Repository,2024-07-31,2025-07-31,Internal,Approved Candidate,Eligible Candidate,11105eca3016dbcf720113630ecbf163b26418976487872d557f33efd8538dbf,DUP-008,"Purpose and scope: This document applies to application support teams and authorized service owners. It describes the operational control and minimum evidence expected for critical application support agreement.
+
+Procedure / control: The critical payments platform has 24x7 support coverage. P1 response target is 15 minutes. Service restoration targets are tracked separately from response targets and are reported monthly. Vendor escalation must include incident ID, impact, timestamps, and diagnostic evidence.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0023,Critical Application Support Agreement - Working Copy 2,Service Levels,Application Support,ApplicationSupport Owner,2.2,Draft,Controlled Knowledge Repository,2024-08-09,2025-08-09,Internal,Non-Approved,Manual Review Required,11105eca3016dbcf720113630ecbf163b26418976487872d557f33efd8538dbf,DUP-008,"Purpose and scope: This document applies to application support teams and authorized service owners. It describes the operational control and minimum evidence expected for critical application support agreement.
+
+Procedure / control: The critical payments platform has 24x7 support coverage. P1 response target is 15 minutes. Service restoration targets are tracked separately from response targets and are reported monthly. Vendor escalation must include incident ID, impact, timestamps, and diagnostic evidence.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0024,Critical Application Support Agreement - Working Copy 3,Service Levels,Application Support,ApplicationSupport Owner,3.0,Superseded,Controlled Knowledge Repository,2024-08-18,2025-08-18,Internal,Non-Approved,Manual Review Required,11105eca3016dbcf720113630ecbf163b26418976487872d557f33efd8538dbf,DUP-008,"Purpose and scope: This document applies to application support teams and authorized service owners. It describes the operational control and minimum evidence expected for critical application support agreement.
+
+Procedure / control: The critical payments platform has 24x7 support coverage. P1 response target is 15 minutes. Service restoration targets are tracked separately from response targets and are reported monthly. Vendor escalation must include incident ID, impact, timestamps, and diagnostic evidence.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0025,Vendor Support Escalation Guide,Service Levels,Vendor Management,VendorManagement Owner,1.1,Approved,Controlled Knowledge Repository,2024-08-27,2025-08-27,Internal,Approved Candidate,Eligible Candidate,dcc7382a2d8a78d6695b0a1ac536993232cea08817ad0a3a27baff879eccfd47,DUP-009,"Purpose and scope: This document applies to vendor management teams and authorized service owners. It describes the operational control and minimum evidence expected for vendor support escalation guide.
+
+Procedure / control: Before escalating to a vendor, confirm the affected service, severity, business impact, start time, recent changes, and troubleshooting already completed. Use the contractual support channel and retain the vendor case number in the incident record.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0026,Vendor Support Escalation Guide - Working Copy 2,Service Levels,Vendor Management,VendorManagement Owner,2.2,Draft,Controlled Knowledge Repository,2024-09-05,2025-09-05,Internal,Non-Approved,Manual Review Required,dcc7382a2d8a78d6695b0a1ac536993232cea08817ad0a3a27baff879eccfd47,DUP-009,"Purpose and scope: This document applies to vendor management teams and authorized service owners. It describes the operational control and minimum evidence expected for vendor support escalation guide.
+
+Procedure / control: Before escalating to a vendor, confirm the affected service, severity, business impact, start time, recent changes, and troubleshooting already completed. Use the contractual support channel and retain the vendor case number in the incident record.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0027,Vendor Support Escalation Guide - Working Copy 3,Service Levels,Vendor Management,,3.0,Superseded,Controlled Knowledge Repository,2024-09-14,2025-09-14,Internal,Non-Approved,Manual Review Required,dcc7382a2d8a78d6695b0a1ac536993232cea08817ad0a3a27baff879eccfd47,DUP-009,"Purpose and scope: This document applies to vendor management teams and authorized service owners. It describes the operational control and minimum evidence expected for vendor support escalation guide.
+
+Procedure / control: Before escalating to a vendor, confirm the affected service, severity, business impact, start time, recent changes, and troubleshooting already completed. Use the contractual support channel and retain the vendor case number in the incident record.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0028,Production Change Management Policy,Change Management,IT Operations,ITOperations Owner,1.1,Approved,Controlled Knowledge Repository,2024-09-23,2025-09-23,Internal,Approved Candidate,Eligible Candidate,adb9ab0680a5a26344a3844a7e5718804a8bdd7542c5b867d1b268d454aa358c,DUP-010,"Purpose and scope: This document applies to it operations teams and authorized service owners. It describes the operational control and minimum evidence expected for production change management policy.
+
+Procedure / control: Production changes require a recorded change request, risk assessment, implementation plan, test evidence, backout plan, and approval by the appropriate change authority. Emergency changes use the emergency process and receive retrospective review. A successful deployment is not a substitute for documented approval.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0029,Production Change Management Policy - Working Copy 2,Change Management,IT Operations,ITOperations Owner,2.2,Draft,Controlled Knowledge Repository,2024-10-02,2025-10-02,Internal,Non-Approved,Manual Review Required,adb9ab0680a5a26344a3844a7e5718804a8bdd7542c5b867d1b268d454aa358c,DUP-010,"Purpose and scope: This document applies to it operations teams and authorized service owners. It describes the operational control and minimum evidence expected for production change management policy.
+
+Procedure / control: Production changes require a recorded change request, risk assessment, implementation plan, test evidence, backout plan, and approval by the appropriate change authority. Emergency changes use the emergency process and receive retrospective review. A successful deployment is not a substitute for documented approval.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0030,Production Change Management Policy - Working Copy 3,Change Management,IT Operations,ITOperations Owner,3.0,Superseded,Controlled Knowledge Repository,2024-10-11,2025-10-11,Internal,Non-Approved,Manual Review Required,adb9ab0680a5a26344a3844a7e5718804a8bdd7542c5b867d1b268d454aa358c,DUP-010,"Purpose and scope: This document applies to it operations teams and authorized service owners. It describes the operational control and minimum evidence expected for production change management policy.
+
+Procedure / control: Production changes require a recorded change request, risk assessment, implementation plan, test evidence, backout plan, and approval by the appropriate change authority. Emergency changes use the emergency process and receive retrospective review. A successful deployment is not a substitute for documented approval.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0031,Emergency Change Procedure,Change Management,IT Operations,ITOperations Owner,1.1,Approved,Controlled Knowledge Repository,2024-10-20,2025-10-20,Internal,Approved Candidate,Eligible Candidate,2976d443c4641b5d6952715d8b51d46383d48f9d724676a111b224c6bdf5d595,DUP-011,"Purpose and scope: This document applies to it operations teams and authorized service owners. It describes the operational control and minimum evidence expected for emergency change procedure.
+
+Procedure / control: Emergency changes are limited to urgent restoration or risk-reduction needs. The incident or service owner documents the reason, scope, risk, validation, and rollback approach. The designated emergency approver authorizes implementation. Retrospective review is recorded at the next change review meeting.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0032,Emergency Change Procedure - Working Copy 2,Change Management,IT Operations,ITOperations Owner,2.2,Draft,Controlled Knowledge Repository,2024-10-29,2025-10-29,Internal,Non-Approved,Manual Review Required,2976d443c4641b5d6952715d8b51d46383d48f9d724676a111b224c6bdf5d595,DUP-011,"Purpose and scope: This document applies to it operations teams and authorized service owners. It describes the operational control and minimum evidence expected for emergency change procedure.
+
+Procedure / control: Emergency changes are limited to urgent restoration or risk-reduction needs. The incident or service owner documents the reason, scope, risk, validation, and rollback approach. The designated emergency approver authorizes implementation. Retrospective review is recorded at the next change review meeting.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0033,Emergency Change Procedure - Working Copy 3,Change Management,IT Operations,ITOperations Owner,3.0,Superseded,Controlled Knowledge Repository,2024-11-07,2025-11-07,Internal,Non-Approved,Manual Review Required,2976d443c4641b5d6952715d8b51d46383d48f9d724676a111b224c6bdf5d595,DUP-011,"Purpose and scope: This document applies to it operations teams and authorized service owners. It describes the operational control and minimum evidence expected for emergency change procedure.
+
+Procedure / control: Emergency changes are limited to urgent restoration or risk-reduction needs. The incident or service owner documents the reason, scope, risk, validation, and rollback approach. The designated emergency approver authorizes implementation. Retrospective review is recorded at the next change review meeting.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0034,Change Freeze Calendar Guidance,Change Management,Application Support,ApplicationSupport Owner,1.1,Approved,Controlled Knowledge Repository,2024-11-16,2025-11-16,Internal,Approved Candidate,Eligible Candidate,5774e32abb1145757f43caf1474560d8e873623e8f1d5ea8d4723f9e41b02fcb,DUP-012,"Purpose and scope: This document applies to application support teams and authorized service owners. It describes the operational control and minimum evidence expected for change freeze calendar guidance.
+
+Procedure / control: Business-critical freeze windows are published by the change management office. Exceptions require documented business justification and approval. Teams must check the current calendar before scheduling. An old calendar attachment is not authoritative.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0035,Change Freeze Calendar Guidance - Working Copy 2,Change Management,Application Support,ApplicationSupport Owner,2.2,Draft,Controlled Knowledge Repository,2024-11-25,,Internal,Non-Approved,Manual Review Required,5774e32abb1145757f43caf1474560d8e873623e8f1d5ea8d4723f9e41b02fcb,DUP-012,"Purpose and scope: This document applies to application support teams and authorized service owners. It describes the operational control and minimum evidence expected for change freeze calendar guidance.
+
+Procedure / control: Business-critical freeze windows are published by the change management office. Exceptions require documented business justification and approval. Teams must check the current calendar before scheduling. An old calendar attachment is not authoritative.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0036,Change Freeze Calendar Guidance - Working Copy 3,Change Management,Application Support,ApplicationSupport Owner,3.0,Superseded,Controlled Knowledge Repository,2024-12-04,2025-12-04,Internal,Non-Approved,Manual Review Required,5774e32abb1145757f43caf1474560d8e873623e8f1d5ea8d4723f9e41b02fcb,DUP-012,"Purpose and scope: This document applies to application support teams and authorized service owners. It describes the operational control and minimum evidence expected for change freeze calendar guidance.
+
+Procedure / control: Business-critical freeze windows are published by the change management office. Exceptions require documented business justification and approval. Teams must check the current calendar before scheduling. An old calendar attachment is not authoritative.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0037,Backup Operations Standard,Backup and Recovery,Infrastructure,Infrastructure Owner,1.1,Approved,Controlled Knowledge Repository,2024-12-13,2025-12-13,Internal,Approved Candidate,Eligible Candidate,af1c4344b2ec0113e576af19b2af1f5eeac5c89f5661b91a42c3d91c6ed890d8,DUP-013,"Purpose and scope: This document applies to infrastructure teams and authorized service owners. It describes the operational control and minimum evidence expected for backup operations standard.
+
+Procedure / control: Critical systems follow documented backup schedules with encryption, access restriction, monitoring, and restore testing. Backup success notifications alone do not prove recoverability. Failed jobs must be investigated and tracked to closure. Retention requirements are defined by the application recovery tier.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0038,Backup Operations Standard - Working Copy 2,Backup and Recovery,Infrastructure,Infrastructure Owner,2.2,Draft,Controlled Knowledge Repository,2024-12-22,2025-12-22,Internal,Non-Approved,Manual Review Required,af1c4344b2ec0113e576af19b2af1f5eeac5c89f5661b91a42c3d91c6ed890d8,DUP-013,"Purpose and scope: This document applies to infrastructure teams and authorized service owners. It describes the operational control and minimum evidence expected for backup operations standard.
+
+Procedure / control: Critical systems follow documented backup schedules with encryption, access restriction, monitoring, and restore testing. Backup success notifications alone do not prove recoverability. Failed jobs must be investigated and tracked to closure. Retention requirements are defined by the application recovery tier.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0039,Backup Operations Standard - Working Copy 3,BCP / DR,Infrastructure,Infrastructure Owner,3.0,Superseded,Controlled Knowledge Repository,2024-12-31,2025-12-31,Internal,Non-Approved,Manual Review Required,af1c4344b2ec0113e576af19b2af1f5eeac5c89f5661b91a42c3d91c6ed890d8,DUP-013,"Purpose and scope: This document applies to infrastructure teams and authorized service owners. It describes the operational control and minimum evidence expected for backup operations standard.
+
+Procedure / control: Critical systems follow documented backup schedules with encryption, access restriction, monitoring, and restore testing. Backup success notifications alone do not prove recoverability. Failed jobs must be investigated and tracked to closure. Retention requirements are defined by the application recovery tier.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0040,Disaster Recovery Plan - Payments,Backup and Recovery,Business Continuity,BusinessContinuity Owner,1.1,Approved,Controlled Knowledge Repository,2025-01-09,2026-01-09,Internal,Approved Candidate,Eligible Candidate,c43b2ccd89384e37dbe22afa4d20e3a8c4924cc36faeed0f4cb5a8934efde947,DUP-014,"Purpose and scope: This document applies to business continuity teams and authorized service owners. It describes the operational control and minimum evidence expected for disaster recovery plan - payments.
+
+Procedure / control: The payments service recovery plan defines accountable recovery roles, invocation criteria, dependency mapping, alternate processing arrangements, and validation steps. The application owner must confirm recovery objectives in the current service continuity register. Exercise results and remediation actions must be retained.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0041,Disaster Recovery Plan - Payments - Working Copy 2,Backup and Recovery,Business Continuity,BusinessContinuity Owner,2.2,Draft,Controlled Knowledge Repository,2025-01-18,2026-01-18,Internal,Non-Approved,Manual Review Required,c43b2ccd89384e37dbe22afa4d20e3a8c4924cc36faeed0f4cb5a8934efde947,DUP-014,"Purpose and scope: This document applies to business continuity teams and authorized service owners. It describes the operational control and minimum evidence expected for disaster recovery plan - payments.
+
+Procedure / control: The payments service recovery plan defines accountable recovery roles, invocation criteria, dependency mapping, alternate processing arrangements, and validation steps. The application owner must confirm recovery objectives in the current service continuity register. Exercise results and remediation actions must be retained.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0042,Disaster Recovery Plan - Payments - Working Copy 3,Backup and Recovery,Business Continuity,BusinessContinuity Owner,3.0,Superseded,Controlled Knowledge Repository,2025-01-27,2026-01-27,Internal,Non-Approved,Manual Review Required,c43b2ccd89384e37dbe22afa4d20e3a8c4924cc36faeed0f4cb5a8934efde947,DUP-014,"Purpose and scope: This document applies to business continuity teams and authorized service owners. It describes the operational control and minimum evidence expected for disaster recovery plan - payments.
+
+Procedure / control: The payments service recovery plan defines accountable recovery roles, invocation criteria, dependency mapping, alternate processing arrangements, and validation steps. The application owner must confirm recovery objectives in the current service continuity register. Exercise results and remediation actions must be retained.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0043,Recovery Exercise Report,Backup and Recovery,Business Continuity,BusinessContinuity Owner,1.1,Approved,Controlled Knowledge Repository,2025-02-05,2026-02-05,Internal,Approved Candidate,Eligible Candidate,4a06c9dbb519dfdaa26d2ec0bf7e5a5f685bc3439204a45e0758a465584bd302,DUP-015,"Purpose and scope: This document applies to business continuity teams and authorized service owners. It describes the operational control and minimum evidence expected for recovery exercise report.
+
+Procedure / control: The exercise records scenario, participants, systems tested, actual recovery observations, gaps, decisions, and corrective actions. A test is not considered successful solely because the application starts; business transaction validation and dependency checks are also required.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0044,Recovery Exercise Report - Working Copy 2,Backup and Recovery,Business Continuity,BusinessContinuity Owner,2.2,Draft,Controlled Knowledge Repository,2025-02-14,2026-02-14,Internal,Non-Approved,Manual Review Required,4a06c9dbb519dfdaa26d2ec0bf7e5a5f685bc3439204a45e0758a465584bd302,DUP-015,"Purpose and scope: This document applies to business continuity teams and authorized service owners. It describes the operational control and minimum evidence expected for recovery exercise report.
+
+Procedure / control: The exercise records scenario, participants, systems tested, actual recovery observations, gaps, decisions, and corrective actions. A test is not considered successful solely because the application starts; business transaction validation and dependency checks are also required.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0045,Recovery Exercise Report - Working Copy 3,Backup and Recovery,Business Continuity,BusinessContinuity Owner,3.0,Superseded,Controlled Knowledge Repository,2025-02-23,2026-02-23,Internal,Non-Approved,Manual Review Required,4a06c9dbb519dfdaa26d2ec0bf7e5a5f685bc3439204a45e0758a465584bd302,DUP-015,"Purpose and scope: This document applies to business continuity teams and authorized service owners. It describes the operational control and minimum evidence expected for recovery exercise report.
+
+Procedure / control: The exercise records scenario, participants, systems tested, actual recovery observations, gaps, decisions, and corrective actions. A test is not considered successful solely because the application starts; business transaction validation and dependency checks are also required.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0046,Cloud Resource Provisioning Standard,Network and Cloud,Cloud Platform,,1.1,Approved,Controlled Knowledge Repository,2025-03-04,2026-03-04,Internal,Approved Candidate,Eligible Candidate,8547745516e0809b55d83559219918b61208ab2177c1f6ccefba51f76cd6396f,DUP-016,"Purpose and scope: This document applies to cloud platform teams and authorized service owners. It describes the operational control and minimum evidence expected for cloud resource provisioning standard.
+
+Procedure / control: Cloud resources must use approved landing zones, identity controls, encryption, logging, tagging, and network boundaries. Production resources require an accountable owner and cost centre. Public exposure must be explicitly justified and reviewed by security.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0047,Cloud Resource Provisioning Standard - Working Copy 2,Network and Cloud,Cloud Platform,CloudPlatform Owner,2.2,Draft,Controlled Knowledge Repository,2025-03-13,2026-03-13,Internal,Non-Approved,Manual Review Required,8547745516e0809b55d83559219918b61208ab2177c1f6ccefba51f76cd6396f,DUP-016,"Purpose and scope: This document applies to cloud platform teams and authorized service owners. It describes the operational control and minimum evidence expected for cloud resource provisioning standard.
+
+Procedure / control: Cloud resources must use approved landing zones, identity controls, encryption, logging, tagging, and network boundaries. Production resources require an accountable owner and cost centre. Public exposure must be explicitly justified and reviewed by security.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0048,Cloud Resource Provisioning Standard - Working Copy 3,Network and Cloud,Cloud Platform,CloudPlatform Owner,3.0,Superseded,Controlled Knowledge Repository,2025-03-22,2026-03-22,Internal,Non-Approved,Manual Review Required,8547745516e0809b55d83559219918b61208ab2177c1f6ccefba51f76cd6396f,DUP-016,"Purpose and scope: This document applies to cloud platform teams and authorized service owners. It describes the operational control and minimum evidence expected for cloud resource provisioning standard.
+
+Procedure / control: Cloud resources must use approved landing zones, identity controls, encryption, logging, tagging, and network boundaries. Production resources require an accountable owner and cost centre. Public exposure must be explicitly justified and reviewed by security.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0049,Network Firewall Request SOP,Network and Cloud,Network Operations,NetworkOperations Owner,1.1,Approved,Controlled Knowledge Repository,2025-03-31,2026-03-31,Internal,Approved Candidate,Eligible Candidate,a62fcb68160b0256ef23a06c86f444090e412decea105e7f7a8aeaa628e90f63,DUP-017,"Purpose and scope: This document applies to network operations teams and authorized service owners. It describes the operational control and minimum evidence expected for network firewall request sop.
+
+Procedure / control: Firewall requests must specify source, destination, protocol, port, business justification, environment, owner, and expiry or review date. Broad any-to-any rules are not acceptable. Rules are reviewed periodically and removed when no longer required.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0050,Network Firewall Request SOP - Working Copy 2,Network and Cloud,Network Operations,NetworkOperations Owner,2.2,Draft,Controlled Knowledge Repository,2025-04-09,2026-04-09,Internal,Non-Approved,Manual Review Required,a62fcb68160b0256ef23a06c86f444090e412decea105e7f7a8aeaa628e90f63,DUP-017,"Purpose and scope: This document applies to network operations teams and authorized service owners. It describes the operational control and minimum evidence expected for network firewall request sop.
+
+Procedure / control: Firewall requests must specify source, destination, protocol, port, business justification, environment, owner, and expiry or review date. Broad any-to-any rules are not acceptable. Rules are reviewed periodically and removed when no longer required.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0051,Network Firewall Request SOP - Working Copy 3,Network and Cloud,Network Operations,NetworkOperations Owner,3.0,Superseded,Controlled Knowledge Repository,2025-04-18,2026-04-18,Internal,Non-Approved,Manual Review Required,a62fcb68160b0256ef23a06c86f444090e412decea105e7f7a8aeaa628e90f63,DUP-017,"Purpose and scope: This document applies to network operations teams and authorized service owners. It describes the operational control and minimum evidence expected for network firewall request sop.
+
+Procedure / control: Firewall requests must specify source, destination, protocol, port, business justification, environment, owner, and expiry or review date. Broad any-to-any rules are not acceptable. Rules are reviewed periodically and removed when no longer required.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0052,Cloud Incident Triage Guide,Network and Cloud,Cloud Platform,CloudPlatform Owner,1.1,Approved,Controlled Knowledge Repository,2025-04-27,2026-04-27,Internal,Approved Candidate,Eligible Candidate,dc54df2aa7bc87d91b1c4e13b7617e36fe0cde2442c01b4d67818ebd07def66e,DUP-018,"Purpose and scope: This document applies to cloud platform teams and authorized service owners. It describes the operational control and minimum evidence expected for cloud incident triage guide.
+
+Procedure / control: For a cloud service incident, verify provider status, internal telemetry, recent deployments, identity events, and network dependencies. Record the affected region and resource identifiers. Do not assume a provider outage without corroborating evidence.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0053,Cloud Incident Triage Guide - Working Copy 2,Network and Cloud,Cloud Platform,CloudPlatform Owner,2.2,Draft,Controlled Knowledge Repository,2025-05-06,2026-05-06,Internal,Non-Approved,Manual Review Required,dc54df2aa7bc87d91b1c4e13b7617e36fe0cde2442c01b4d67818ebd07def66e,DUP-018,"Purpose and scope: This document applies to cloud platform teams and authorized service owners. It describes the operational control and minimum evidence expected for cloud incident triage guide.
+
+Procedure / control: For a cloud service incident, verify provider status, internal telemetry, recent deployments, identity events, and network dependencies. Record the affected region and resource identifiers. Do not assume a provider outage without corroborating evidence.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0054,Cloud Incident Triage Guide - Working Copy 3,Network and Cloud,Cloud Platform,CloudPlatform Owner,3.0,Superseded,Controlled Knowledge Repository,2025-05-15,2026-05-15,Internal,Non-Approved,Manual Review Required,dc54df2aa7bc87d91b1c4e13b7617e36fe0cde2442c01b4d67818ebd07def66e,DUP-018,"Purpose and scope: This document applies to cloud platform teams and authorized service owners. It describes the operational control and minimum evidence expected for cloud incident triage guide.
+
+Procedure / control: For a cloud service incident, verify provider status, internal telemetry, recent deployments, identity events, and network dependencies. Record the affected region and resource identifiers. Do not assume a provider outage without corroborating evidence.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0055,Data Classification and Handling Policy,Data Protection,Security,Security Owner,1.1,Approved,Controlled Knowledge Repository,2025-05-24,2026-05-24,Internal,Approved Candidate,Eligible Candidate,50b6690030d73775924aca96557a71f1999a66f46887f65be4b1afadaea4246a,DUP-019,"Purpose and scope: This document applies to security teams and authorized service owners. It describes the operational control and minimum evidence expected for data classification and handling policy.
+
+Procedure / control: Information is classified according to sensitivity and business impact. Restricted information must be stored only in approved locations, shared with authorized recipients, and protected using approved encryption and access controls. Classification labels must be preserved when content is exported.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0056,Data Classification and Handling Policy - Working Copy 2,Data Governance,Security,Security Owner,2.2,Draft,Controlled Knowledge Repository,2025-06-02,2026-06-02,Internal,Non-Approved,Manual Review Required,50b6690030d73775924aca96557a71f1999a66f46887f65be4b1afadaea4246a,DUP-019,"Purpose and scope: This document applies to security teams and authorized service owners. It describes the operational control and minimum evidence expected for data classification and handling policy.
+
+Procedure / control: Information is classified according to sensitivity and business impact. Restricted information must be stored only in approved locations, shared with authorized recipients, and protected using approved encryption and access controls. Classification labels must be preserved when content is exported.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0057,Data Classification and Handling Policy - Working Copy 3,Data Protection,Security,Security Owner,3.0,Superseded,Controlled Knowledge Repository,2025-06-11,2026-06-11,Internal,Non-Approved,Manual Review Required,50b6690030d73775924aca96557a71f1999a66f46887f65be4b1afadaea4246a,DUP-019,"Purpose and scope: This document applies to security teams and authorized service owners. It describes the operational control and minimum evidence expected for data classification and handling policy.
+
+Procedure / control: Information is classified according to sensitivity and business impact. Restricted information must be stored only in approved locations, shared with authorized recipients, and protected using approved encryption and access controls. Classification labels must be preserved when content is exported.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0058,Secure File Transfer Procedure,Data Protection,Security,Security Owner,1.1,Approved,Controlled Knowledge Repository,2025-06-20,,Internal,Approved Candidate,Eligible Candidate,f7db3576488a78b3e825b3fb3fd0ce084c5242f3fc9578211aa69ed97b8e7aa5,DUP-020,"Purpose and scope: This document applies to security teams and authorized service owners. It describes the operational control and minimum evidence expected for secure file transfer procedure.
+
+Procedure / control: Use approved managed file-transfer services for sensitive business information. Verify recipient identity and authorization, select the appropriate classification, and retain transfer evidence. Personal email and unapproved consumer file-sharing services must not be used.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0059,Secure File Transfer Procedure - Working Copy 2,Data Protection,Security,Security Owner,2.2,Draft,Controlled Knowledge Repository,2025-06-29,2026-06-29,Internal,Non-Approved,Manual Review Required,f7db3576488a78b3e825b3fb3fd0ce084c5242f3fc9578211aa69ed97b8e7aa5,DUP-020,"Purpose and scope: This document applies to security teams and authorized service owners. It describes the operational control and minimum evidence expected for secure file transfer procedure.
+
+Procedure / control: Use approved managed file-transfer services for sensitive business information. Verify recipient identity and authorization, select the appropriate classification, and retain transfer evidence. Personal email and unapproved consumer file-sharing services must not be used.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0060,Secure File Transfer Procedure - Working Copy 3,Data Protection,Security,Security Owner,3.0,Superseded,Controlled Knowledge Repository,2025-07-08,2026-07-08,Internal,Non-Approved,Manual Review Required,f7db3576488a78b3e825b3fb3fd0ce084c5242f3fc9578211aa69ed97b8e7aa5,DUP-020,"Purpose and scope: This document applies to security teams and authorized service owners. It describes the operational control and minimum evidence expected for secure file transfer procedure.
+
+Procedure / control: Use approved managed file-transfer services for sensitive business information. Verify recipient identity and authorization, select the appropriate classification, and retain transfer evidence. Personal email and unapproved consumer file-sharing services must not be used.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0061,Data Retention Schedule Guidance,Data Protection,Compliance,Compliance Owner,1.1,Approved,Controlled Knowledge Repository,2025-07-17,2026-07-17,Internal,Approved Candidate,Eligible Candidate,fbb300fcd0f47814268095d8effdd9fe595b0a5c7fc0c710025080da425bb6c7,DUP-021,"Purpose and scope: This document applies to compliance teams and authorized service owners. It describes the operational control and minimum evidence expected for data retention schedule guidance.
+
+Procedure / control: Retention periods depend on record type, legal hold, contractual obligations, and the approved records schedule. Teams must not invent retention periods. When a legal hold applies, normal deletion is suspended pending authorized release.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0062,Data Retention Schedule Guidance - Working Copy 2,Data Protection,Compliance,Compliance Owner,2.2,Draft,Controlled Knowledge Repository,2025-07-26,2026-07-26,Internal,Non-Approved,Manual Review Required,fbb300fcd0f47814268095d8effdd9fe595b0a5c7fc0c710025080da425bb6c7,DUP-021,"Purpose and scope: This document applies to compliance teams and authorized service owners. It describes the operational control and minimum evidence expected for data retention schedule guidance.
+
+Procedure / control: Retention periods depend on record type, legal hold, contractual obligations, and the approved records schedule. Teams must not invent retention periods. When a legal hold applies, normal deletion is suspended pending authorized release.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0063,Data Retention Schedule Guidance - Working Copy 3,Data Protection,Compliance,Compliance Owner,3.0,Superseded,Controlled Knowledge Repository,2025-08-04,2026-08-04,Internal,Non-Approved,Manual Review Required,fbb300fcd0f47814268095d8effdd9fe595b0a5c7fc0c710025080da425bb6c7,DUP-021,"Purpose and scope: This document applies to compliance teams and authorized service owners. It describes the operational control and minimum evidence expected for data retention schedule guidance.
+
+Procedure / control: Retention periods depend on record type, legal hold, contractual obligations, and the approved records schedule. Teams must not invent retention periods. When a legal hold applies, normal deletion is suspended pending authorized release.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0064,Managed Laptop Troubleshooting Guide,End User Support,IT Service Desk,ITServiceDesk Owner,1.1,Approved,Controlled Knowledge Repository,2025-08-13,2026-08-13,Internal,Approved Candidate,Eligible Candidate,f45aaaa297da3e29b9bd7621d013881f32d0cf1ade1b755aaced34836a331524,DUP-022,"Purpose and scope: This document applies to it service desk teams and authorized service owners. It describes the operational control and minimum evidence expected for managed laptop troubleshooting guide.
+
+Procedure / control: For a managed laptop issue, capture the asset tag, operating-system version, network context, error text, and recent changes. Confirm power, connectivity, and approved update status. Escalate suspected compromise to security rather than continuing routine troubleshooting.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0065,Managed Laptop Troubleshooting Guide - Working Copy 2,End User Support,IT Service Desk,,2.2,Draft,Controlled Knowledge Repository,2025-08-22,2026-08-22,Internal,Non-Approved,Manual Review Required,f45aaaa297da3e29b9bd7621d013881f32d0cf1ade1b755aaced34836a331524,DUP-022,"Purpose and scope: This document applies to it service desk teams and authorized service owners. It describes the operational control and minimum evidence expected for managed laptop troubleshooting guide.
+
+Procedure / control: For a managed laptop issue, capture the asset tag, operating-system version, network context, error text, and recent changes. Confirm power, connectivity, and approved update status. Escalate suspected compromise to security rather than continuing routine troubleshooting.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0066,Managed Laptop Troubleshooting Guide - Working Copy 3,End User Support,IT Service Desk,ITServiceDesk Owner,3.0,Superseded,Controlled Knowledge Repository,2025-08-31,2026-08-31,Internal,Non-Approved,Manual Review Required,f45aaaa297da3e29b9bd7621d013881f32d0cf1ade1b755aaced34836a331524,DUP-022,"Purpose and scope: This document applies to it service desk teams and authorized service owners. It describes the operational control and minimum evidence expected for managed laptop troubleshooting guide.
+
+Procedure / control: For a managed laptop issue, capture the asset tag, operating-system version, network context, error text, and recent changes. Confirm power, connectivity, and approved update status. Escalate suspected compromise to security rather than continuing routine troubleshooting.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0067,VPN Connectivity Runbook,End User Support,Network Operations,NetworkOperations Owner,1.1,Approved,Controlled Knowledge Repository,2025-09-09,2026-09-09,Internal,Approved Candidate,Eligible Candidate,52bb01f6da8fd1d0609b0d7ecd02c65e73c6f2d71b53f306c9d9aad93f7a1eb9,DUP-023,"Purpose and scope: This document applies to network operations teams and authorized service owners. It describes the operational control and minimum evidence expected for vpn connectivity runbook.
+
+Procedure / control: Confirm the user account is active, device compliance is healthy, time synchronization is correct, and the approved VPN client is installed. Record the exact error and timestamp. Check service health before resetting credentials or changing network policy.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0068,VPN Connectivity Runbook - Working Copy 2,End User Support,Network Operations,NetworkOperations Owner,2.2,Draft,Controlled Knowledge Repository,2025-09-18,2026-09-18,Internal,Non-Approved,Manual Review Required,52bb01f6da8fd1d0609b0d7ecd02c65e73c6f2d71b53f306c9d9aad93f7a1eb9,DUP-023,"Purpose and scope: This document applies to network operations teams and authorized service owners. It describes the operational control and minimum evidence expected for vpn connectivity runbook.
+
+Procedure / control: Confirm the user account is active, device compliance is healthy, time synchronization is correct, and the approved VPN client is installed. Record the exact error and timestamp. Check service health before resetting credentials or changing network policy.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0069,VPN Connectivity Runbook - Working Copy 3,End User Support,Network Operations,NetworkOperations Owner,3.0,Superseded,Controlled Knowledge Repository,2025-09-27,2026-09-27,Internal,Non-Approved,Manual Review Required,52bb01f6da8fd1d0609b0d7ecd02c65e73c6f2d71b53f306c9d9aad93f7a1eb9,DUP-023,"Purpose and scope: This document applies to network operations teams and authorized service owners. It describes the operational control and minimum evidence expected for vpn connectivity runbook.
+
+Procedure / control: Confirm the user account is active, device compliance is healthy, time synchronization is correct, and the approved VPN client is installed. Record the exact error and timestamp. Check service health before resetting credentials or changing network policy.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0070,Employee Software Request Procedure,End User Support,IT Service Desk,ITServiceDesk Owner,1.1,Approved,Controlled Knowledge Repository,2025-10-06,2026-10-06,Internal,Approved Candidate,Eligible Candidate,4cdb049d5053b5a86c482cad2f61a2b3890ea86e2635effe1a72c4a3514328d3,DUP-024,"Purpose and scope: This document applies to it service desk teams and authorized service owners. It describes the operational control and minimum evidence expected for employee software request procedure.
+
+Procedure / control: Software requests require a business justification, software name and version, device or user scope, license check, and security review where applicable. Only approved software may be installed on managed endpoints.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0071,Employee Software Request Procedure - Working Copy 2,End User Support,IT Service Desk,ITServiceDesk Owner,2.2,Draft,Controlled Knowledge Repository,2025-10-15,2026-10-15,Internal,Non-Approved,Manual Review Required,4cdb049d5053b5a86c482cad2f61a2b3890ea86e2635effe1a72c4a3514328d3,DUP-024,"Purpose and scope: This document applies to it service desk teams and authorized service owners. It describes the operational control and minimum evidence expected for employee software request procedure.
+
+Procedure / control: Software requests require a business justification, software name and version, device or user scope, license check, and security review where applicable. Only approved software may be installed on managed endpoints.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-0072,Employee Software Request Procedure - Working Copy 3,End User Support,IT Service Desk,ITServiceDesk Owner,3.0,Superseded,Controlled Knowledge Repository,2025-10-24,2026-10-24,Internal,Non-Approved,Manual Review Required,4cdb049d5053b5a86c482cad2f61a2b3890ea86e2635effe1a72c4a3514328d3,DUP-024,"Purpose and scope: This document applies to it service desk teams and authorized service owners. It describes the operational control and minimum evidence expected for employee software request procedure.
+
+Procedure / control: Software requests require a business justification, software name and version, device or user scope, license check, and security review where applicable. Only approved software may be installed on managed endpoints.
+
+Operational evidence: Record the request or incident identifier, accountable owner, relevant timestamps, approval or validation evidence, and any exception. Escalate unresolved ambiguity to the designated service owner or control function. Do not infer an approval from an informal conversation.
+
+Review and governance: The document owner is responsible for periodic review. Use the latest approved version from the controlled repository. Superseded copies are retained for audit history and must not be treated as current operating instructions."
+DOC-X001,Privileged Access Standard,Access Management,IT Operations,,,Active,SharePoint export,,,Internal,Other,Excluded - Unreliable,943b341d45462c78eb5f00a77acaae799ac1f1512c25bcd83f2467d8af1d9680,DUP-025,Privileged access can be granted by any team member without manager or security approval. This statement is intentionally inaccurate and conflicts with the approved standard. It is an old copied note and must not be used as policy.
+DOC-X002,IT Service Desk SLA - Legacy,Service Levels,IT Service Desk,SLA Owner,1.0,Expired,Legacy Wiki,2021-02-01,2022-02-01,Internal,Non-Approved,Manual Review Required,3817af20c5923e17e5ac41e010aa4bff3609781e636573effe311a19d6507df3,DUP-026,"Legacy target table: P1 acknowledgement within 60 minutes, P2 within 8 business hours. This record is retained to test stale-source handling. The current approved SLA has different targets."
+DOC-X003,Incident Priority Matrix,Incident Management,IT Service Desk,Service Desk Lead,2.0,Approved,Email Attachment,2025-01-01,2026-01-01,Internal,External Approved,Excluded - Unreliable,f070441e0076fb54c913172ff91cf1db42597504abbdad2afc43e33a0be676ec,DUP-027,P1 incidents should be acknowledged within 4 hours. This value is intentionally inaccurate and is not an approved service target. Confirm the controlled SLA before answering response-time questions.
+DOC-X004,Office Cafeteria Menu,Facilities,Facilities,Facilities Admin,1.0,Expired,Intranet,2025-05-01,2025-05-31,Internal,Non-Approved,Manual Review Required,e1075b229b6ae996ec35ec212429066d5616b306fc9c9c0439b081b3d7988594,DUP-028,Monday: soup and salad. Tuesday: pasta. Wednesday: rice bowls. This document is unrelated to IT operational knowledge.
+DOC-X005,Quarterly Wellness Newsletter,Communications,HR,HR Communications,1.0,Expired,Intranet,2025-04-01,2025-07-01,Internal,Non-Approved,Manual Review Required,99db469d571626f0dbf3d5207032b19277a034116965fb55aa92ace16192c017,DUP-029,"This quarter's wellness newsletter includes staff events, walking challenges, and general announcements. It contains no IT support procedure."
+DOC-X006,VPN Guide duplicate export,Network & Infrastructure,Network Operations,Network Owner,1.0,Approved,File Share,2025-06-01,2026-06-01,Internal,External Approved,External Validation Required,e0b781ac77e876d1913c992980be0a27a0c2a4cee5e450c1652db319c9589ca7,DUP-030,"Confirm the user account is active, device compliance is healthy, time synchronization is correct, and the approved VPN client is installed. Record the exact error and timestamp. Check service health before resetting credentials or changing network policy."
+DOC-X007,Cloud Resource Provisioning Standard,Cloud Platform,Cloud Platform,Cloud Owner,2.1,Approved,Cloud Wiki,2025-07-01,,Internal,External Approved,External Validation Required,075eac95b6524f80802afba2dbcc76f568010542648fbbc4911244d06488ff66,DUP-031,"Cloud resources must use approved landing zones, identity controls, encryption, logging, tagging, and network boundaries. Production resources require an accountable owner and cost centre."
+DOC-X008,Password reset quick note,End User Support,IT Service Desk,,,Published,Ticket comment,2025-08-01,,Internal,Other,External Validation Required,6a0dab6fc5f4a0cecfc869f144515640488bcfe0e5137aa79a7cd5be4be985f5,DUP-032,"If a user cannot sign in, verify identity using the approved process and follow the identity platform's password-reset workflow. Do not ask users to share passwords or one-time codes."
+DOC-X009,Vendor Product Brochure,Vendor Material,Procurement,Vendor,1.0,Published,Vendor Portal,2025-03-01,,Public,Other,Excluded - Irrelevant,b37173a28e25263c1591b7ab674c82e388dd9ea0a7e8a2e355cf20a5c8ccf7f4,DUP-033,"Our platform delivers next-generation productivity through a unified, scalable, best-in-class experience. Contact sales for a demonstration. No operational support instructions are included."
+DOC-X010,Recovery Plan - Payments old copy,Backup and Recovery,Business Continuity,BCP Owner,1.2,Archived,Email Attachment,2022-01-01,2023-01-01,Internal,Non-Approved,Manual Review Required,96afbe1095b8ac3be62eba5b0fed3286ee3dc4d3ef5eebbe6662a9d6f1ffb805,DUP-034,The payments recovery plan is owned by the infrastructure team. Recovery objectives in this copy are illustrative only and have not been validated. Consult the current service continuity register.
+DOC-X011,Data Retention - contradictory note,Data Protection,Compliance,Compliance Analyst,0.9,Draft,Personal Drive,2025-02-01,2026-02-01,Restricted,Non-Approved,Manual Review Required,f712b9dd9020ab1642e86244b0e0c3718ed131b4782358770d658709b0f32c39,DUP-035,"All business records must be deleted after 30 days. This blanket statement is intentionally inaccurate; retention depends on record type, legal hold, contractual obligations, and the approved schedule."
+DOC-X012,Production change approval FAQ,Change Management,IT Operations,,1.0,Approved,Knowledge Base,2025-09-01,2026-09-01,Internal,External Approved,External Validation Required,8ab590bf7c532187a6f75f682f60a1dca0978a84678251b3881a93c59e7d4733,DUP-036,"A production change requires a recorded change request, risk assessment, implementation plan, test evidence, backout plan, and approval by the appropriate change authority. Emergency changes follow the emergency process."
