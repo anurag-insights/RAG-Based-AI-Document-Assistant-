@@ -1,0 +1,85 @@
+document_id,title,version,status,source_system,owner,effective_date,review_date,duplicate_group_id,authority_class
+DOC-0001,Privileged Access Standard,1.1,Approved,Controlled Knowledge Repository,Security Owner,2024-01-24,2025-01-23,DUP-001,Approved Candidate
+DOC-0002,Privileged Access Standard - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,Security Owner,2024-02-02,2025-02-01,DUP-001,Non-Approved
+DOC-0003,Privileged Access Standard - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,Security Owner,2024-02-11,2025-02-10,DUP-001,Non-Approved
+DOC-0004,Joiner-Mover-Leaver Procedure,1.1,Approved,Controlled Knowledge Repository,ITOperations Owner,2024-02-20,2025-02-19,DUP-002,Approved Candidate
+DOC-0005,Joiner-Mover-Leaver Procedure - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,ITOperations Owner,2024-02-29,2025-02-28,DUP-002,Non-Approved
+DOC-0006,Joiner-Mover-Leaver Procedure - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,ITOperations Owner,2024-03-09,2025-03-09,DUP-002,Non-Approved
+DOC-0007,Service Account Governance,1.1,Approved,Controlled Knowledge Repository,Security Owner,2024-03-18,2025-03-18,DUP-003,Approved Candidate
+DOC-0008,Service Account Governance - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,,2024-03-27,2025-03-27,DUP-003,Non-Approved
+DOC-0009,Service Account Governance - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,Security Owner,2024-04-05,2025-04-05,DUP-003,Non-Approved
+DOC-0010,Incident Priority and Escalation Matrix,1.1,Approved,Controlled Knowledge Repository,ITServiceDesk Owner,2024-04-14,2025-04-14,DUP-004,Approved Candidate
+DOC-0011,Incident Priority and Escalation Matrix - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,ITServiceDesk Owner,2024-04-23,2025-04-23,DUP-004,Non-Approved
+DOC-0012,Incident Priority and Escalation Matrix - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,ITServiceDesk Owner,2024-05-02,,DUP-004,Non-Approved
+DOC-0013,Major Incident Communications SOP,1.1,Approved,Controlled Knowledge Repository,ITOperations Owner,2024-05-11,2025-05-11,DUP-005,Approved Candidate
+DOC-0014,Major Incident Communications SOP - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,ITOperations Owner,2024-05-20,2025-05-20,DUP-005,Non-Approved
+DOC-0015,Major Incident Communications SOP - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,ITOperations Owner,2024-05-29,2025-05-29,DUP-005,Non-Approved
+DOC-0016,Endpoint Malware Response Runbook,1.1,Approved,Controlled Knowledge Repository,Security Owner,2024-06-07,2025-06-07,DUP-006,Approved Candidate
+DOC-0017,Endpoint Malware Response Runbook - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,Security Owner,2024-06-16,2025-06-16,DUP-006,Non-Approved
+DOC-0018,Endpoint Malware Response Runbook - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,Security Owner,2024-06-25,2025-06-25,DUP-006,Non-Approved
+DOC-0019,IT Service Desk SLA,1.1,Approved,Controlled Knowledge Repository,ITServiceDesk Owner,2024-07-04,2025-07-04,DUP-007,Approved Candidate
+DOC-0020,IT Service Desk SLA - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,ITServiceDesk Owner,2024-07-13,2025-07-13,DUP-007,Non-Approved
+DOC-0021,IT Service Desk SLA - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,ITServiceDesk Owner,2024-07-22,2025-07-22,DUP-007,Non-Approved
+DOC-0022,Critical Application Support Agreement,1.1,Approved,Controlled Knowledge Repository,ApplicationSupport Owner,2024-07-31,2025-07-31,DUP-008,Approved Candidate
+DOC-0023,Critical Application Support Agreement - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,ApplicationSupport Owner,2024-08-09,2025-08-09,DUP-008,Non-Approved
+DOC-0024,Critical Application Support Agreement - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,ApplicationSupport Owner,2024-08-18,2025-08-18,DUP-008,Non-Approved
+DOC-0025,Vendor Support Escalation Guide,1.1,Approved,Controlled Knowledge Repository,VendorManagement Owner,2024-08-27,2025-08-27,DUP-009,Approved Candidate
+DOC-0026,Vendor Support Escalation Guide - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,VendorManagement Owner,2024-09-05,2025-09-05,DUP-009,Non-Approved
+DOC-0027,Vendor Support Escalation Guide - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,,2024-09-14,2025-09-14,DUP-009,Non-Approved
+DOC-0028,Production Change Management Policy,1.1,Approved,Controlled Knowledge Repository,ITOperations Owner,2024-09-23,2025-09-23,DUP-010,Approved Candidate
+DOC-0029,Production Change Management Policy - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,ITOperations Owner,2024-10-02,2025-10-02,DUP-010,Non-Approved
+DOC-0030,Production Change Management Policy - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,ITOperations Owner,2024-10-11,2025-10-11,DUP-010,Non-Approved
+DOC-0031,Emergency Change Procedure,1.1,Approved,Controlled Knowledge Repository,ITOperations Owner,2024-10-20,2025-10-20,DUP-011,Approved Candidate
+DOC-0032,Emergency Change Procedure - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,ITOperations Owner,2024-10-29,2025-10-29,DUP-011,Non-Approved
+DOC-0033,Emergency Change Procedure - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,ITOperations Owner,2024-11-07,2025-11-07,DUP-011,Non-Approved
+DOC-0034,Change Freeze Calendar Guidance,1.1,Approved,Controlled Knowledge Repository,ApplicationSupport Owner,2024-11-16,2025-11-16,DUP-012,Approved Candidate
+DOC-0035,Change Freeze Calendar Guidance - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,ApplicationSupport Owner,2024-11-25,,DUP-012,Non-Approved
+DOC-0036,Change Freeze Calendar Guidance - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,ApplicationSupport Owner,2024-12-04,2025-12-04,DUP-012,Non-Approved
+DOC-0037,Backup Operations Standard,1.1,Approved,Controlled Knowledge Repository,Infrastructure Owner,2024-12-13,2025-12-13,DUP-013,Approved Candidate
+DOC-0038,Backup Operations Standard - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,Infrastructure Owner,2024-12-22,2025-12-22,DUP-013,Non-Approved
+DOC-0039,Backup Operations Standard - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,Infrastructure Owner,2024-12-31,2025-12-31,DUP-013,Non-Approved
+DOC-0040,Disaster Recovery Plan - Payments,1.1,Approved,Controlled Knowledge Repository,BusinessContinuity Owner,2025-01-09,2026-01-09,DUP-014,Approved Candidate
+DOC-0041,Disaster Recovery Plan - Payments - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,BusinessContinuity Owner,2025-01-18,2026-01-18,DUP-014,Non-Approved
+DOC-0042,Disaster Recovery Plan - Payments - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,BusinessContinuity Owner,2025-01-27,2026-01-27,DUP-014,Non-Approved
+DOC-0043,Recovery Exercise Report,1.1,Approved,Controlled Knowledge Repository,BusinessContinuity Owner,2025-02-05,2026-02-05,DUP-015,Approved Candidate
+DOC-0044,Recovery Exercise Report - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,BusinessContinuity Owner,2025-02-14,2026-02-14,DUP-015,Non-Approved
+DOC-0045,Recovery Exercise Report - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,BusinessContinuity Owner,2025-02-23,2026-02-23,DUP-015,Non-Approved
+DOC-0046,Cloud Resource Provisioning Standard,1.1,Approved,Controlled Knowledge Repository,,2025-03-04,2026-03-04,DUP-016,Approved Candidate
+DOC-0047,Cloud Resource Provisioning Standard - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,CloudPlatform Owner,2025-03-13,2026-03-13,DUP-016,Non-Approved
+DOC-0048,Cloud Resource Provisioning Standard - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,CloudPlatform Owner,2025-03-22,2026-03-22,DUP-016,Non-Approved
+DOC-0049,Network Firewall Request SOP,1.1,Approved,Controlled Knowledge Repository,NetworkOperations Owner,2025-03-31,2026-03-31,DUP-017,Approved Candidate
+DOC-0050,Network Firewall Request SOP - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,NetworkOperations Owner,2025-04-09,2026-04-09,DUP-017,Non-Approved
+DOC-0051,Network Firewall Request SOP - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,NetworkOperations Owner,2025-04-18,2026-04-18,DUP-017,Non-Approved
+DOC-0052,Cloud Incident Triage Guide,1.1,Approved,Controlled Knowledge Repository,CloudPlatform Owner,2025-04-27,2026-04-27,DUP-018,Approved Candidate
+DOC-0053,Cloud Incident Triage Guide - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,CloudPlatform Owner,2025-05-06,2026-05-06,DUP-018,Non-Approved
+DOC-0054,Cloud Incident Triage Guide - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,CloudPlatform Owner,2025-05-15,2026-05-15,DUP-018,Non-Approved
+DOC-0055,Data Classification and Handling Policy,1.1,Approved,Controlled Knowledge Repository,Security Owner,2025-05-24,2026-05-24,DUP-019,Approved Candidate
+DOC-0056,Data Classification and Handling Policy - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,Security Owner,2025-06-02,2026-06-02,DUP-019,Non-Approved
+DOC-0057,Data Classification and Handling Policy - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,Security Owner,2025-06-11,2026-06-11,DUP-019,Non-Approved
+DOC-0058,Secure File Transfer Procedure,1.1,Approved,Controlled Knowledge Repository,Security Owner,2025-06-20,,DUP-020,Approved Candidate
+DOC-0059,Secure File Transfer Procedure - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,Security Owner,2025-06-29,2026-06-29,DUP-020,Non-Approved
+DOC-0060,Secure File Transfer Procedure - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,Security Owner,2025-07-08,2026-07-08,DUP-020,Non-Approved
+DOC-0061,Data Retention Schedule Guidance,1.1,Approved,Controlled Knowledge Repository,Compliance Owner,2025-07-17,2026-07-17,DUP-021,Approved Candidate
+DOC-0062,Data Retention Schedule Guidance - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,Compliance Owner,2025-07-26,2026-07-26,DUP-021,Non-Approved
+DOC-0063,Data Retention Schedule Guidance - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,Compliance Owner,2025-08-04,2026-08-04,DUP-021,Non-Approved
+DOC-0064,Managed Laptop Troubleshooting Guide,1.1,Approved,Controlled Knowledge Repository,ITServiceDesk Owner,2025-08-13,2026-08-13,DUP-022,Approved Candidate
+DOC-0065,Managed Laptop Troubleshooting Guide - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,,2025-08-22,2026-08-22,DUP-022,Non-Approved
+DOC-0066,Managed Laptop Troubleshooting Guide - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,ITServiceDesk Owner,2025-08-31,2026-08-31,DUP-022,Non-Approved
+DOC-0067,VPN Connectivity Runbook,1.1,Approved,Controlled Knowledge Repository,NetworkOperations Owner,2025-09-09,2026-09-09,DUP-023,Approved Candidate
+DOC-0068,VPN Connectivity Runbook - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,NetworkOperations Owner,2025-09-18,2026-09-18,DUP-023,Non-Approved
+DOC-0069,VPN Connectivity Runbook - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,NetworkOperations Owner,2025-09-27,2026-09-27,DUP-023,Non-Approved
+DOC-0070,Employee Software Request Procedure,1.1,Approved,Controlled Knowledge Repository,ITServiceDesk Owner,2025-10-06,2026-10-06,DUP-024,Approved Candidate
+DOC-0071,Employee Software Request Procedure - Working Copy 2,2.2,Draft,Controlled Knowledge Repository,ITServiceDesk Owner,2025-10-15,2026-10-15,DUP-024,Non-Approved
+DOC-0072,Employee Software Request Procedure - Working Copy 3,3.0,Superseded,Controlled Knowledge Repository,ITServiceDesk Owner,2025-10-24,2026-10-24,DUP-024,Non-Approved
+DOC-X001,Privileged Access Standard,,Active,SharePoint export,,,,DUP-025,Other
+DOC-X002,IT Service Desk SLA - Legacy,1.0,Expired,Legacy Wiki,SLA Owner,2021-02-01,2022-02-01,DUP-026,Non-Approved
+DOC-X003,Incident Priority Matrix,2.0,Approved,Email Attachment,Service Desk Lead,2025-01-01,2026-01-01,DUP-027,External Approved
+DOC-X004,Office Cafeteria Menu,1.0,Expired,Intranet,Facilities Admin,2025-05-01,2025-05-31,DUP-028,Non-Approved
+DOC-X005,Quarterly Wellness Newsletter,1.0,Expired,Intranet,HR Communications,2025-04-01,2025-07-01,DUP-029,Non-Approved
+DOC-X006,VPN Guide duplicate export,1.0,Approved,File Share,Network Owner,2025-06-01,2026-06-01,DUP-030,External Approved
+DOC-X007,Cloud Resource Provisioning Standard,2.1,Approved,Cloud Wiki,Cloud Owner,2025-07-01,,DUP-031,External Approved
+DOC-X008,Password reset quick note,,Published,Ticket comment,,2025-08-01,,DUP-032,Other
+DOC-X009,Vendor Product Brochure,1.0,Published,Vendor Portal,Vendor,2025-03-01,,DUP-033,Other
+DOC-X010,Recovery Plan - Payments old copy,1.2,Archived,Email Attachment,BCP Owner,2022-01-01,2023-01-01,DUP-034,Non-Approved
+DOC-X011,Data Retention - contradictory note,0.9,Draft,Personal Drive,Compliance Analyst,2025-02-01,2026-02-01,DUP-035,Non-Approved
+DOC-X012,Production change approval FAQ,1.0,Approved,Knowledge Base,,2025-09-01,2026-09-01,DUP-036,External Approved
